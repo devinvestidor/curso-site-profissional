@@ -1,0 +1,19 @@
+{
+  "name": "curso-site-profissional",
+  "version": "1.0.0",
+  "description": "Este repositório contém informações e recursos para o curso \"Como criar SITE PROFISSIONAL | Passo a Passo\". Este curso destina-se a ajudar iniciantes e entusiastas a desenvolverem habilidades na criação de sites profissionais de maneira passo a passo.",  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinvestidor/curso-site-profissional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinvestidor/curso-site-profissional/issues"
+  },
+  "homepage": "https://github.com/devinvestidor/curso-site-profissional#readme"
+}
